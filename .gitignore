@@ -1,0 +1,13 @@
+#compiled output
+/out/
+
+#idea project files
+/.idea/
+*.iml
+ACCESS-TOKEN.p12target/
+out/
+target/
+*.dylib
+lib/*.dylibtarget/
+out/
+*.dylib
